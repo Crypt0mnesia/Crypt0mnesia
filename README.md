@@ -31,7 +31,7 @@
 
 ### 📂 Проекты (Яндекс.Практикум)
 
-👉 **[Все проекты доступны в репозитории-портфолио](https://github.com/Crypt0mnesia/qa-portfolio)**
+👉 **[Все проекты доступны в репозитории-портфолио](https://github.com/Crypt0mnesia/QA_portfolio)**
 
 ---
 
