@@ -20,7 +20,7 @@
 |-----------|------------|
 | **Тестирование API и БД** | Postman, REST API, JSON/XML, SQL (проверка данных, JOIN) |
 | **Автоматизация** | Python, Pytest, Selenium WebDriver, Page Object Model, Requests, Allure |
-| **Мобильное тестирование** | Android Studio, Charles |
+| **Мобильное тестирование** | Android Studio|
 | **Инструменты разработки** | Git, GitHub, DevTools, Figma, VS Code, PyCharm, CLI |
 | **Типы тестирования** | Функциональное, UI, кроссбраузерное, регрессионное, мобильное, API, исследовательское |
 | **Тест-дизайн** | Классы эквивалентности, граничные значения, таблицы принятия решений |
